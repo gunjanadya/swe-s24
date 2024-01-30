@@ -1,0 +1,14 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "ECE SWE S24 HW 1",
+  "main": "datetime_converter.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Gunjan Adya",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
