@@ -1,0 +1,11 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calVerify.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Gunjan Adya",
+  "license": "ISC"
+}
