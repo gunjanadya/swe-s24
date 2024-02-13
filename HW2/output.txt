@@ -1,0 +1,23 @@
+[
+  {
+    "IDENTIFIER": "test-id-3",
+    "TIME": "1922-07-16T09:00:00.000Z",
+    "WEIGHT": "353",
+    "UNITS": "lb",
+    "COLOR": "yellow"
+  },
+  {
+    "IDENTIFIER": "test-id-1",
+    "TIME": "1970-07-23T09:03:00.000Z",
+    "WEIGHT": "353",
+    "UNITS": "g",
+    "COLOR": "blue"
+  },
+  {
+    "IDENTIFIER": "test-id-1",
+    "TIME": "2003-07-16T09:03:00.000Z",
+    "WEIGHT": "35",
+    "UNITS": "kg",
+    "COLOR": "pink"
+  }
+]
